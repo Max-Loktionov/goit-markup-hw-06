@@ -509,6 +509,7 @@ textarea {
   font-size: 14px;
   line-height: 1.71;
 }
+
 .agree {
   position: absolute;
   clip: rect(0 0 0 0);
@@ -518,6 +519,9 @@ textarea {
   padding: 0;
   border: 0;
   overflow: hidden;
+}
+.form-contract:hover {
+  cursor: pointer;
 }
 
 .agree:hover + .check-icon,
