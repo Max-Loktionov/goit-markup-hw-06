@@ -371,6 +371,7 @@ a {
   background-color: #fff;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 50%;
+  cursor: pointer;
 
   transition-property: border-color;
   transition-duration: 250ms;
